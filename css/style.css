@@ -1,0 +1,36 @@
+body{
+  background-color:CYAN;
+
+}
+
+hr
+{
+  border-style:none;
+  border-top-style: dotted;
+  border-top-color: Green;
+  border-width: 5px;
+  height:2px;
+  width: 5%;
+}
+h3
+{
+  color: red;
+}
+h4
+{
+  color: Magenta;
+}
+h1
+{
+  color: #008B8B;
+}
+ul{
+  color: Orange;
+}
+a{
+  color: Green;
+}
+
+.bike{
+  background-color: red;
+}
